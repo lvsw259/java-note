@@ -7,6 +7,7 @@ public class ArrayList_LinkedList {
         List<String> list1 = new ArrayList<>();
         List<String> list2 = new LinkedList<>();
         list1.add("break a leg");
+        list2.add("test");
 
 
     }
